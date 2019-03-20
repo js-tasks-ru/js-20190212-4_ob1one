@@ -25,7 +25,4 @@ function find (obj, value) {
   } else {
     return null;
   }
-  
- 
-
 }
